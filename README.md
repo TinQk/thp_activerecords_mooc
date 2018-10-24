@@ -1,24 +1,10 @@
-# README
+# Bon, alors, comment dire...
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Comme tu peux le constater, c'est le début de la fin
 
-Things you may want to cover:
+Je vais donc profiter de cette page blanche pour te raconter notre calvaire d'hier.
 
-* Ruby version
+Déja, ça commençait mal pour moi, mon chat a chié sur le tapis. 
 
-* System dependencies
+... to be continued in the prochain repo
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
