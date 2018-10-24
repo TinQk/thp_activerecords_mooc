@@ -6,5 +6,5 @@ Je vais donc profiter de cette page blanche pour te raconter notre calvaire d'hi
 
 Déja, ça commençait mal pour moi, mon chat a chié sur le tapis. 
 
-*... to be continued dans le prochain repo
+*... to be continued dans le prochain repo*
 
